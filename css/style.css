@@ -48,7 +48,7 @@ h1 {
 		float: left;
 		}
 .col-tablet-6 {width: 50%;}
-.col-tablet-12 {width: 100;}
+.col-tablet-12 {width: 100%;}
 }
 @media (min-width: 992px)
 {

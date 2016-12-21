@@ -58,7 +58,7 @@ h1 {
 .col-tablet-9 {width: 75%;}
 .col-tablet-10 {width: 83.33%;}
 .col-tablet-11 {width: 91.66%;}
-.col-tablet-12 {width: 100;}
+.col-tablet-12 {width: 100%;}
 }
 @media (min-width: 992px)
 {
@@ -76,5 +76,5 @@ h1 {
 .col-desktop-9 {width: 75%;}
 .col-desktop-10 {width: 83.33%;}
 .col-desktop-11 {width: 91.66%;}
-.col-desktop-12 {width: 100;}
+.col-desktop-12 {width: 100%;}
 }
